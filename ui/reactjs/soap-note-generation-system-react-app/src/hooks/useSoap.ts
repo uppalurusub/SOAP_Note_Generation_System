@@ -1,5 +1,3 @@
-// src/hooks/useSoap.ts
-
 import { useCallback, useState } from "react";
 
 import { generateSoap } from "../api/soapApi";
